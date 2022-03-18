@@ -6,11 +6,11 @@
 * Phone: +375(29)9670224
 * E-mail: stiniaevaviktory@gmail.com
 * Skype: https://join.skype.com/invite/fNtYMICYVAwo
-### Languages
-* Russian – native;
-* Belarusian – advanced;
-* English – level A2;
-* Polish – basic
+### About myself
+My goal is to realize myself through work, to grow and develop as a specialist and as a person. I am interested in the continuous learning process in various fields such as IT, finance, psychology, personal growth.
+### Work experience
+My work experience is associated with writing operational documentation, drawing electrical wiring scheme, as well as maintaining internal documentation and documentation for public procurement, working with 1C:Enterprise.
+I have experience in creating websites on platforms Wordpress and Tilda. Website hosting and setup DNS.
 ### Skills
 1. HTML, CSS, JavaScript, Markdown, Devtools (RS-School);
 1. Git, TortoiseSVN;
@@ -30,11 +30,11 @@
 * IBM Blockchain Foundation Developer (http://cognitiveclass.ai)
 * Deep learning (MathWorks)
 * Matlab Onramp (MathWorks)
-### About myself
-My goal is to realize myself through work, to grow and develop as a specialist and as a person. I am interested in the continuous learning process in various fields such as IT, finance, psychology, personal growth.
-### Work experience
-My work experience is associated with writing operational documentation, drawing electrical wiring scheme, as well as maintaining internal documentation and documentation for public procurement, working with 1C:Enterprise.
-I have experience in creating websites on platforms Wordpress and Tilda. Website hosting and setup DNS.
+### Languages
+* Russian – native;
+* Belarusian – advanced;
+* English – level A2;
+* Polish – basic
 ### My projects
 * [Memory game](https://memory-game-js3-2-vikstin.netlify.app)
 * [Image galery](https://image-galery-js-2-2-vikstin.netlify.app)

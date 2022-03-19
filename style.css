@@ -28,7 +28,9 @@ main {
     flex-direction: column;
     background-color: #f8f8f8;
     justify-content: center;
+    align-items: center;
     width: 65%;
+    padding: 20px;
 }
 .col1-2,
 .col2-2,
@@ -39,6 +41,7 @@ main {
     flex-direction: column;
     background-color: #ccc8c2;
     width: 35%;
+    padding: 20px;
 }
 .photo {
     position: relative;

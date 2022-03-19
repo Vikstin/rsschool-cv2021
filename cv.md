@@ -17,7 +17,6 @@ I have experience in creating websites on platforms Wordpress and Tilda. Website
 1. Visual Studio Code, NotePad++;
 1. VMware; 
 1. CMS Wordpress, Tilda;
-1. Microsoft Office;
 1. Mentor Graphics DxDesigner;
 ### Education
 * Master's degree: specialty - virtualization and cloud computing technologies, Master of Informatics and Computer Engineering (BSUIR 2017-2019);
@@ -27,9 +26,6 @@ I have experience in creating websites on platforms Wordpress and Tilda. Website
 * JavaScript (RS-School, https://learn.javascript.ru/);
 * HTML (RS-School, https://ru.code-basics.com/languages/html);
 * CSS (RS-School, https://ru.code-basics.com/languages/css);
-* IBM Blockchain Foundation Developer (http://cognitiveclass.ai)
-* Deep learning (MathWorks)
-* Matlab Onramp (MathWorks)
 ### Languages
 * Russian – native;
 * Belarusian – advanced;

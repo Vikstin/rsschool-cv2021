@@ -16,14 +16,8 @@ main {
 .block5 {
     display: flex;
     flex-direction: row;
-    
-    
 }
-.col1-1,
-.col2-1,
-.col3-1,
-.col4-1,
-.col5-1 {
+.name {
     display: flex;
     flex-direction: column;
     background-color: #f8f8f8;
@@ -32,18 +26,8 @@ main {
     width: 65%;
     padding: 20px;
 }
-.col1-2,
-.col2-2,
-.col3-2,
-.col4-2,
-.col5-2 {
-    display: flex;
-    flex-direction: column;
-    background-color: #ccc8c2;
-    width: 35%;
-    padding: 20px;
-}
-.photo {
+
+.myphoto {
     position: relative;
     z-index: 5;
     width: 50%;
@@ -52,3 +36,48 @@ main {
     transform: rotate(348deg);
 }
 
+.about_me,
+.education,
+.work,
+.courses {
+    display: flex;
+    flex-direction: column;
+    background-color: #f8f8f8;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 65%;
+    padding: 0px 20px 0px 60px;
+}
+.photo {
+    display: flex;
+    flex-direction: column;
+    background-color: #ccc8c2;
+    width: 35%;
+    padding: 0px 50px 0px 20px;
+}
+.contacts,
+.skills,
+.languages,
+.projects {
+    display: flex;
+    flex-direction: column;
+    background-color: #ccc8c2;
+    width: 35%;
+    padding: 0px 50px 0px 20px;
+}
+.university,
+.skills-progress,
+.work-place {
+    display: flex;
+    flex-direction: row;
+}
+.ages {
+    width: 20%;
+    padding-right: 8px;
+}
+.progress_pic {
+    height: 20px;
+}
+.specialty {
+    width: 80%;
+}

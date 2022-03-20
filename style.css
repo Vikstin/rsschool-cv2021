@@ -81,3 +81,12 @@ main {
 .specialty {
     width: 80%;
 }
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    background-color: #928e89;
+    padding: 0 365px 0;
+}
